@@ -1,0 +1,65 @@
+.content {
+    text-align: center;
+    a:link, a:visited, a:hover, a:active {
+		color: #ffffff;
+        text-decoration: none;
+	}
+
+    margin: 0%;
+    padding: 0%;
+
+    h2 {
+        background-color: rgba(0, 0, 0, 0.549);    
+    }
+}
+
+.title {
+    text-align: center;
+    padding: .5rem;
+    background-color: rgb(72, 0, 78);
+}
+
+.placeholder {
+    background-image: url("");
+    
+    padding: 5rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.shelterRemix {
+    background-image: url(/snoutibur.github.io/Res/Discography/ShelterRemix/Shelter.png);
+    
+    padding: 5rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.untitled26 {
+    background-image: url(/snoutibur.github.io/Res/Discography/Untitled26/Untitled26.png);
+    
+    padding: 5rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.screwAroundAndHopeForTheBest {
+    background-image: url(/snoutibur.github.io/Res/Discography/SANH4DB/Dingus.png);    
+    
+    padding: 5rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sadMachine {
+    background-image: url(/snoutibur.github.io/Res/Discography/SadMachineRemix/SadCover.png), linear-gradient(rgba(0, 0, 0, 0.213), rgba(0, 0, 0, 0.213));
+    
+    padding: 5rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
