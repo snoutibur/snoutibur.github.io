@@ -13,12 +13,6 @@
     }
 }
 
-.title {
-    text-align: center;
-    padding: .5rem;
-    background-color: rgb(72, 0, 78);
-}
-
 .placeholder {
     background-image: url("");
     
