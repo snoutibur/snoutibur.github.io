@@ -24,7 +24,7 @@
 }
 
 .dontForgetRemix {
-    background-image: url(/Res/Discography/DontForgetRemix/DontForget.png);
+    background-image: url(/Res/Discography/DontForget.png);
     
     padding: 5rem;
     background-size: cover;
@@ -33,7 +33,7 @@
 }
 
 .shelterRemix {
-    background-image: url(/Res/Discography/ShelterRemix/Shelter.png);
+    background-image: url(/Res/Discography/Shelter.png);
     
     padding: 5rem;
     background-size: cover;
@@ -42,7 +42,7 @@
 }
 
 .untitled26 {
-    background-image: url(/Res/Discography/Untitled26/Untitled26.png);
+    background-image: url(/Res/Discography/Untitled26.png);
     
     padding: 5rem;
     background-size: cover;
@@ -51,7 +51,7 @@
 }
 
 .screwAroundAndHopeForTheBest {
-    background-image: url(/Res/Discography/SANH4DB/Dingus.png);    
+    background-image: url(/Res/Discography/SANH4DB.png);    
     
     padding: 5rem;
     background-size: cover;
@@ -60,7 +60,7 @@
 }
 
 .sadMachine {
-    background-image: url(/Res/Discography/SadMachineRemix/SadCover.png), linear-gradient(rgba(0, 0, 0, 0.213), rgba(0, 0, 0, 0.213));
+    background-image: url(/Res/Discography/SadCover.png), linear-gradient(rgba(0, 0, 0, 0.213), rgba(0, 0, 0, 0.213));
     
     padding: 5rem;
     background-size: cover;
