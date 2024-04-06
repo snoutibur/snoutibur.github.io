@@ -9,12 +9,22 @@
     padding: 0%;
 
     h2 {
-        background-color: rgba(0, 0, 0, 0.549);    
+        background-color: rgba(0, 0, 0, 0.549);
+        padding: .5rem;
     }
 }
 
 .placeholder {
     background-image: url("");
+    
+    padding: 5rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.dontForgetRemix {
+    background-image: url(/Res/Discography/DontForgetRemix/DontForget.png);
     
     padding: 5rem;
     background-size: cover;

@@ -52,8 +52,6 @@ main {
 	margin-left: 5rem;
 	padding-top: 1rem;
 	padding-bottom: 1rem;
-	padding-left: 2rem;
-	padding-right: 2rem;
 	
 	
 	img {
@@ -144,7 +142,8 @@ body::-webkit-scrollbar-thumb {
 	
 	main, header {
 		margin: 0;
-		padding-left: 9;
+		padding-left: .5rem;
+		padding-right: .5rem;
 	}
 }
 
@@ -173,5 +172,10 @@ body::-webkit-scrollbar-thumb {
 	.navbar:hover .logo-text
 	{
 		left: 0px;
+	}
+
+	main {
+		padding-left: 2rem;
+		padding-right: 2rem;
 	}
 }
