@@ -1,69 +1,38 @@
-.content {
+.DiscographyDisplay {    
+    margin: 1rem;
+    padding: 0%;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    max-width: 1080px;
+    max-height: 90%;
+
     text-align: center;
     a:link, a:visited, a:hover, a:active {
 		color: #ffffff;
         text-decoration: none;
 	}
 
-    margin: 0%;
-    padding: 0%;
-
     h2 {
         background-color: rgba(0, 0, 0, 0.549);
-        padding: .5rem;
+        padding: .7rem;
     }
 }
 
-.placeholder {
-    background-image: url("");
-    
-    padding: 5rem;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+.DiscographyItem {
+    margin: 1%;
+    padding: 0 rem;
 
-.dontForgetRemix {
-    background-image: url(/Res/Discography/DontForget.png);
-    
-    padding: 5rem;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+    img {
+        aspect-ratio: 8/3;
+        object-fit: cover;
+    }
 
-.shelterRemix {
-    background-image: url(/Res/Discography/Shelter.png);
-    
-    padding: 5rem;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.untitled26 {
-    background-image: url(/Res/Discography/Untitled26.png);
-    
-    padding: 5rem;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.screwAroundAndHopeForTheBest {
-    background-image: url(/Res/Discography/SANH4DB.png);    
-    
-    padding: 5rem;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.sadMachine {
-    background-image: url(/Res/Discography/SadCover.png), linear-gradient(rgba(0, 0, 0, 0.213), rgba(0, 0, 0, 0.213));
-    
-    padding: 5rem;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    h2, img {
+        margin: 0;
+        padding: 0;
+    }
 }
