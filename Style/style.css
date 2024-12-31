@@ -9,7 +9,7 @@
 	--transition-speed: 200ms;
 }
 
-/* CLASS FUNCTION THINGS */
+/* FUNCTIONAL CLASS ITEMS */
 .centerContentsH {
 	display: grid;
 	place-items: center;
@@ -17,7 +17,7 @@
 }
 
 
-/* BITS AND WHATNOT */
+/* WEBPAGE */
 header {
 	position: relative;
 	z-index: 5;
@@ -68,7 +68,7 @@ body::-webkit-scrollbar-thumb {
 	z-index: 6;
 
 	background-color: var(--bg-primary);
-	transition: width 600ms ease;
+	transition: width 83ms ease;
 	overflow: scroll;
 	overflow: hidden;
 }
