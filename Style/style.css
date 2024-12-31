@@ -3,8 +3,8 @@
 	font-family: 'Courier New', Courier, monospace;
 	--text-primary: #9f9f9f;
 	--text-secondary: #ffffff;
-	--body-bg: #2c0b2f;
-	--bg-primary: #2b0b3d;
+	--body-bg: #0e0616;
+	--bg-primary: #3b0e4d;
 	--bg-secondary: #000000;
 	--transition-speed: 200ms;
 }
@@ -23,7 +23,7 @@ header {
 	z-index: 5;
 
 	text-align: center;
-    background-color: rgb(72, 0, 78);
+    background-color: rgb(40, 13, 65);
 	padding: .5rem;
 	padding-left: 5rem;
 }
@@ -109,7 +109,7 @@ body::-webkit-scrollbar-thumb {
 	margin: 0 1.5rem;
 }
 
-/* RESONSIVE STUFFS */
+/* RESPONSIVE STUFFS */
 /* Small screens */
 @media only screen and (max-width: 600px) {
 	.navbar {
