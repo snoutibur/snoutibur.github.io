@@ -24,6 +24,7 @@ header {
 
 	text-align: center;
     background-color: rgb(40, 13, 65);
+
 	padding: .5rem;
 	padding-left: 5rem;
 }
@@ -36,9 +37,6 @@ body {
 }
 
 main {
-	margin-left: 5rem;
-	margin-top: 3rem;
-	
 	padding: .1rem;
 
 	img {
@@ -130,8 +128,14 @@ body::-webkit-scrollbar-thumb {
 		justify-content: center;
 	}
 	
-	main, header {
-		margin: 0;
+	main {
+		margin-bottom: 3rem;
+		
+		padding-left: .5rem;
+		padding-right: .5rem;
+	}
+	
+	header {
 		padding-left: .5rem;
 		padding-right: .5rem;
 	}
@@ -165,6 +169,8 @@ body::-webkit-scrollbar-thumb {
 	}
 
 	main {
+		margin-left: 5rem;
+
 		padding-left: 2rem;
 		padding-right: 2rem;
 	}
