@@ -170,6 +170,7 @@ body::-webkit-scrollbar-thumb {
 
 	main {
 		margin-left: 5rem;
+		margin-top: .75rem;
 
 		padding-left: 2rem;
 		padding-right: 2rem;
