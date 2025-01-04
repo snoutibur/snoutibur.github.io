@@ -174,4 +174,9 @@ body::-webkit-scrollbar-thumb {
 		padding-left: 2rem;
 		padding-right: 2rem;
 	}
+
+	header {
+		padding-left: .5rem;
+		padding-right: .5rem;
+	}
 }
